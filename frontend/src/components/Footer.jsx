@@ -32,7 +32,7 @@ const Footer = () => {
     },
     {
       icon: FaInstagram,
-      url: "https://www.instagram.com/",
+      url: "https://www.instagram.com/dhirajgupta_76/",
     },
     {
       icon: FaYoutube,
@@ -142,7 +142,7 @@ const Footer = () => {
                   <FaPhone className={footerStyles.contactIcon} />
                 </div>
                 <div>
-                  <p>+918584388489</p>
+                  <p>+917631746504</p>
                 </div>
               </li>
 
@@ -151,7 +151,7 @@ const Footer = () => {
                   <FaEnvelope className={footerStyles.contactIcon} />
                 </div>
                 <div>
-                  <p>subh.say99@gmail.com</p>
+                  <p>dhiraj.say99@gmail.com</p>
                 </div>
               </li>
             </ul>
@@ -212,8 +212,8 @@ const Footer = () => {
 
             <span className={footerStyles.attributionText}>
              Designed By {' '}
-             <a href="https://github.com/SubhashSonu" className={footerStyles.attributionLink} target='_blank'>
-             Subhash Sonu
+             <a href="https://github.com/DhirajKumarGupta76" className={footerStyles.attributionLink} target='_blank'>
+             Dhiraj Kumar Gupta
              </a>
              </span>
           </div>
