@@ -2,7 +2,7 @@ import express from 'express'
 import cors from 'cors'
 
 import dns from 'dns'
-dns.setServers(["1.1.1.1","8.8.8.8"]);
+dns.setServers(["1.1.1.1","8.8.8.8","0.0.0.0"]);
 
 import 'dotenv/config'
 import { connectDB } from './config/db.js';
