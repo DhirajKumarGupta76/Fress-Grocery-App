@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import CartPage from '../components/CartPage'
-
+// Adding component to function build
 const Cart = () => {
   return (
     <div>
