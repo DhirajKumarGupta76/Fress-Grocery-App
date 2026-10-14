@@ -73,7 +73,7 @@ export const addToCart = async (req, res, next) => {
   }
 };
 
-//  Update quantity
+//  Update quantity and image
 export const updateCartItem = async (req, res, next) => {
   try {
     const { quantity } = req.body;
